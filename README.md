@@ -1,6 +1,8 @@
 # assignment_1_udemy
 
-A new Flutter project.
+Assignment One - 'Flutter & Dart - The Complete Guide [2022] by Maximilian Schwarzmüller.
+
+Simple setState app, changing text with a button.
 
 ## Getting Started
 
