@@ -1,8 +1,9 @@
-# assignment_1_udemy
+# Changing Text using setState
 
+Simple app using setState in Flutter to change text with a button
+
+Part of:
 Assignment One - 'Flutter & Dart - The Complete Guide [2022] by Maximilian Schwarzmüller.
-
-Simple setState app, changing text with a button.
 
 ## Getting Started
 
